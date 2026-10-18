@@ -1,0 +1,1 @@
+Built-in image_gen: flat three stacked ocean wave bands from sky blue to deep steel blue, transparent background, no text or tile.

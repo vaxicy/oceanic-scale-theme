@@ -1,0 +1,49 @@
+{
+  "name": "oceanic-scale-theme",
+  "displayName": "Oceanic Scale Theme",
+  "description": "Washed sea-glass aqua, sage leaves and pressed-flower mauve in coordinated light and dark themes.",
+  "version": "1.0.0",
+  "publisher": "lilinhuang",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "light",
+    "dark",
+    "garden",
+    "sage",
+    "pastel",
+    "vintage"
+  ],
+  "icon": "assets/icon.png",
+  "license": "SEE LICENSE IN LICENSE",
+  "galleryBanner": {
+    "color": "#2B3238",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vaxicy/oceanic-scale-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Oceanic Scale Theme Light",
+        "uiTheme": "vs",
+        "path": "./themes/oceanic-scale-light-color-theme.json"
+      },
+      {
+        "label": "Oceanic Scale Theme Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/oceanic-scale-dark-color-theme.json"
+      }
+    ]
+  }
+}
+
+
+
