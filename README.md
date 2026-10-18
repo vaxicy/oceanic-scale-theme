@@ -25,7 +25,7 @@ A garden seen through a sheet of sea glass, tuned for VS Code: **washed-aqua pap
 
 一层海玻璃滤过的花园，为 VS Code 调色：**水洗青的纸面**、**灰青的墨迹**、**鼠尾草绿**，再点一抹**干花藕紫**。浅色版像日光下的书桌，深色版像同一张桌子的黄昏；两套变体共享同一套色板，切换时改变的是明暗而非气质。
 
-<a id="preview"></a>
+<a name="preview"></a>
 
 ## Preview / 预览
 
@@ -37,7 +37,7 @@ A garden seen through a sheet of sea glass, tuned for VS Code: **washed-aqua pap
 >
 > 上方预览图取自真实运行该主题的 VS Code 窗口截图，非模拟图。
 
-<a id="palette"></a>
+<a name="palette"></a>
 
 ## Palette / 色板
 
@@ -67,7 +67,7 @@ Brand palette: sea glass `#C0E4E1`, deep sea glass `#243638`, slate `#71869B`, s
 
 品牌色板：海玻璃青 `#C0E4E1`、深海玻璃 `#243638`、灰蓝 `#71869B`、鼠尾草绿 `#BCD2A8`、藕紫 `#C4A7B7`、米白 `#FBF2DF`。
 
-<a id="syntax"></a>
+<a name="syntax"></a>
 
 ## Syntax mapping / 语法映射
 
@@ -95,7 +95,7 @@ Keywords, tags and strings all belong to the sea-glass family, so code reads as 
 
 关键字、标签与字符串同属海玻璃一脉，在两种底色上都呈现为一片水青；数字保持琥珀、类型保持藕紫、转义字符保持暖色，扫读时才有落点。
 
-<a id="coverage"></a>
+<a name="coverage"></a>
 
 ## Coverage / 覆盖范围
 
@@ -110,7 +110,7 @@ Every surface below is themed in both variants (144 UI colors each):
 
 以下区域在两套变体中均已配色（每套 144 个 UI 颜色）：编辑器本体（选区与失焦选区、当前行、词/选区高亮、查找匹配与高亮、括号匹配、光标、行号、标尺、缩进线、空白符、错误/警告/提示）；活动栏与角标、标题栏、侧边栏（含分节标题）、状态栏（含无文件夹与调试态）、标签栏；面板与各类浮窗（悬停、建议、通知、快速输入）、下拉与输入框、列表选中/悬停/高亮、树缩进线；终端 ANSI 全色；全部边框与滚动条、Git 装饰色与 gutter 标记、按钮与角标、差异编辑器底色，以及变量/参数/属性/函数/方法/类型/类/接口的语义高亮。完整的颜色清单见 `COLOR-SPEC.md`。
 
-<a id="features"></a>
+<a name="features"></a>
 
 ## Features / 功能
 
@@ -126,7 +126,7 @@ Every surface below is themed in both variants (144 UI colors each):
 - **启用语义高亮**，在传统 TextMate scope 之外为语言感知的 token 着色。
 - **终端 ANSI 配色**取自同一色板，集成终端与主题融为一体。
 
-<a id="installation"></a>
+<a name="installation"></a>
 
 ## Installation / 安装
 
@@ -148,7 +148,7 @@ Or from the command line:
 ext install lilinhuang.oceanic-scale-theme
 ```
 
-<a id="activation"></a>
+<a name="activation"></a>
 
 ## Activation / 启用
 
@@ -160,7 +160,7 @@ To switch between the two variants quickly, use the keyboard shortcut `Ctrl+K Ct
 
 随时可用快捷键 `Ctrl+K Ctrl+T` 在两套变体之间快速切换。
 
-<a id="development"></a>
+<a name="development"></a>
 
 ## Development / 开发
 
@@ -202,7 +202,7 @@ Package the extension with:
 vsce package
 ```
 
-<a id="license"></a>
+<a name="license"></a>
 
 ## License / 许可
 
@@ -210,7 +210,7 @@ Released under the **Non-Commercial License** — licensed for personal, educati
 
 基于 **Non-Commercial License（非商业使用许可）** 发布，可用于个人、教育及非商业用途，详见 [LICENSE](LICENSE)。
 
-<a id="feedback"></a>
+<a name="feedback"></a>
 
 ## Feedback / 反馈
 
@@ -218,7 +218,7 @@ Found an unthemed area or want a tweak? Open an issue at [github.com/vaxicy/ocea
 
 发现没有配色的区域或想调整某处颜色，欢迎在 [GitHub Issues](https://github.com/vaxicy/oceanic-scale-theme/issues) 反馈。
 
-<a id="publisher"></a>
+<a name="publisher"></a>
 
 ## Publisher / 发布者
 
